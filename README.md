@@ -14,7 +14,7 @@ this poc identifies paths excluded from Windows Defender's real-time protection.
 ## Usage
 
 - clone the repo
-  ```git clone github.com/githubesson/DefenderPaths```
+  ```git clone https://github.com/githubesson/DefenderPaths```
 
 - run the file
   ```go run main.go```
